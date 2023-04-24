@@ -10,33 +10,46 @@ opportunities and where I can enhance my growth and could utilize my skills and 
 
 <ul>
   <li>
-    <strong>Half-Life 2</strong>
-    <p>Fight aliens, wear a head crab, learn about gravity</p>
+    UI Path
   </li>
   <li>
-    <strong>Halo: Combat Evolved</strong>
-    <p>Fight aliens, wear an AI, learn about screen peeking siblings</p>
+    HTML
   </li>
   <li>
-    <strong>Team Fortress 2</strong>
-    <p>Fight non-alien residents, wear hats, learn about teamwork</p>
+   CSS
   </li>
   <li>
-    <strong>Tribes</strong>
-    <p>Ski, slip, and slide your way to victory</p>
+    Java Script
   </li>
+   <li>
+    VB.Net
+  </li>
+   <li>
+   API with Postman
+  </li>
+   <li>
+    Wordpress
+  </li>
+   <li>
+    MS SQL Server
+  </li>
+  
+  
+  
+  
+  
 </ul>
 
 
 
-UI Path
-HTML
-CSS
-Java Script
-VB.Net
-API with Postman
-Wordpress
-MS SQL Server
+
+
+
+
+
+
+
+
 
 Photoshop
 Illustrator
