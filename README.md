@@ -8,11 +8,11 @@ opportunities and where I can enhance my growth and could utilize my skills and 
 
 
 
-<ol>
-  <ul>
+<ul>
+  <li>
     <strong>Half-Life 2</strong>
     <p>Fight aliens, wear a head crab, learn about gravity</p>
-  </ul>
+  </li>
   <li>
     <strong>Halo: Combat Evolved</strong>
     <p>Fight aliens, wear an AI, learn about screen peeking siblings</p>
@@ -25,7 +25,7 @@ opportunities and where I can enhance my growth and could utilize my skills and 
     <strong>Tribes</strong>
     <p>Ski, slip, and slide your way to victory</p>
   </li>
-</ol>
+</ul>
 
 
 
