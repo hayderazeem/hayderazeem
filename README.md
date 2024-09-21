@@ -9,6 +9,15 @@ opportunities and where I can enhance my growth and could utilize my skills and 
 
 
 <ul>
+     <li>
+    Node JS
+  </li>
+   <li>
+    Next JS
+  </li>
+   <li>
+    React JS
+  </li>
   <li>
     UI Path
   </li>
@@ -17,6 +26,15 @@ opportunities and where I can enhance my growth and could utilize my skills and 
   </li>
   <li>
    CSS
+  </li>
+   <li>
+    Tailwind
+  </li>
+   <li>
+    Bootstrap
+  </li>
+   <li>
+    Material UI
   </li>
   <li>
     Java Script
@@ -32,6 +50,12 @@ opportunities and where I can enhance my growth and could utilize my skills and 
   </li>
    <li>
     MS SQL Server
+  </li>
+   <li>
+    Oracle
+  </li>
+   <li>
+    Mysql
   </li>
   
   
@@ -54,6 +78,8 @@ opportunities and where I can enhance my growth and could utilize my skills and 
 Photoshop
 Illustrator
 Canva
+Figma
+Adobe XD
 CCNA
 MCSE
 Network
